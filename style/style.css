@@ -106,25 +106,29 @@ html, body{
 .fa-facebook:hover, .fa-twitter:hover, .fa-google-plus-g:hover, .fa-instagram:hover, .fa-youtube:hover{
   color: #d5d5d5;
 }
-footer{
-  background-color: #3f3f3f;
-  color: #d5d5d5;
-  padding-top: 2rem;
-}
+
 hr.light{
   border-top: 1px solid #d5d5d5;
   width: 75%;
   margin-top: .8rem;
   margin-bottom: 1rem;
 }
-footer a{
-  color: #d5d5d5;
-}
 hr.light-100{
   border-top: 1px solid #d5d5d5;
   width: 100%;
   margin-top: .8rem;
   margin-bottom: 1rem;
+}
+
+footer{
+  width: 100%;
+	padding: 30px 0px;
+	background-color: black;
+	color: white;
+}
+
+footer a{
+  color: #d5d5d5;
 }
 
 /*---Media Queries --*/
