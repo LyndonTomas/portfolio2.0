@@ -1,2 +1,2 @@
 User-agent:*
-Disallow: /about.html/
+Disallow: /portfolio2.0/about.html/
