@@ -1,2 +1,6 @@
 User-agent:*
+<<<<<<< HEAD
 Disallow: /about.html
+=======
+Disallow: /portfolio2.0/about.html
+>>>>>>> 702f8ab760d13a0b6b5236e962911e144b8e4114
