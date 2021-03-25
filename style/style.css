@@ -357,7 +357,22 @@ figure {
     padding: 1rem;
 }
 
-
+@media only screen and (max-width:360px){
+  /* index.html */
+  h1{
+    font-size: 20px;
+  }
+  .carousel-item img{
+    max-width: 600px;
+    max-height: 184.5px;
+  }
+  .carousel-caption{
+    font-size: 8px;
+  }
+  .carousel{
+    margin-bottom: 16rem;
+  }
+}
 
 
 
