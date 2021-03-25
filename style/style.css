@@ -7,6 +7,12 @@ html, body{
   color: #222;
 }
 
+footer{
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
 .logo{
   max-width: 60px;
   margin-bottom: 15px;
@@ -357,7 +363,7 @@ figure {
     padding: 1rem;
 }
 
-@media only screen and (max-width:360px){
+@media only screen and (max-width: 376px){
   /* index.html */
   h1{
     font-size: 20px;
@@ -369,8 +375,8 @@ figure {
   .carousel-caption{
     font-size: 8px;
   }
-  .carousel{
-    margin-bottom: 16rem;
+  footer{
+    position: absolute;
   }
 }
 
